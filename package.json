@@ -1,0 +1,25 @@
+{
+  "name": "addons",
+  "version": "1.0.0",
+  "description": "for composing adoons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentaurosu2sei/addons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kentaurosu2sei/addons/issues"
+  },
+  "homepage": "https://github.com/kentaurosu2sei/addons#readme",
+  "dependencies": {
+    "@minecraft/server": "^2.9.0",
+    "@minecraft/server-ui": "^2.1.0"
+  }
+}
